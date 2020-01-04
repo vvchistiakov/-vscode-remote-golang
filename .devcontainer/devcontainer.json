@@ -1,0 +1,11 @@
+{
+    "name": "Go 1.13.5",
+    "context": "..",
+    "image": "golang:1.13.4-alpine",
+
+    "terminal.integrated.shell.linux": "/bin/ash",
+
+    "extensions": [
+        "ms-vscode.Go"
+    ]
+}
